@@ -5,4 +5,4 @@ Bootcamp de Alura ciclo Principiante en Programacion
 2) Se uso la metodologia SCRUM para realizar el proyecto, mediante Trello
 3) Se añadieron las funcionalidades requeridas 
 
-Y se utilizo Git para realizar control de versionamiento}
+Y se utilizo Git para realizar control de versionamiento
